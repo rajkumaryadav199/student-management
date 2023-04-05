@@ -1,0 +1,21 @@
+{
+  "name": "student-management",
+  "version": "1.0.0",
+  "description": "Using nodejs mongodb creating students management system LMS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajkumaryadav199/student-management.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajkumaryadav199/student-management/issues"
+  },
+  "homepage": "https://github.com/rajkumaryadav199/student-management#readme"
+}
